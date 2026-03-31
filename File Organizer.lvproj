@@ -46,6 +46,8 @@ The core logic iterates through a source directory, parses the "Date Created" me
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Main_Organizer.vi" Type="VI" URL="../Main_Organizer.vi"/>
+		<Item Name="path_empty_check.vi" Type="VI" URL="../subVI/path_empty_check.vi"/>
+		<Item Name="path_logics.vi" Type="VI" URL="../subVI/path_logics.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
