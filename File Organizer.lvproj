@@ -50,6 +50,7 @@ The core logic iterates through a source directory, parses the "Date Created" me
 		<Item Name="path_logics.vi" Type="VI" URL="../subVI/path_logics.vi"/>
 		<Item Name="filelist_datetime.vi" Type="VI" URL="../subVI/filelist_datetime.vi"/>
 		<Item Name="datearray_folder_creation.vi" Type="VI" URL="../subVI/datearray_folder_creation.vi"/>
+		<Item Name="orig folder file list and path.vi" Type="VI" URL="../subVI/orig folder file list and path.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
