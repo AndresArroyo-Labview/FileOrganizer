@@ -1,0 +1,26 @@
+2026-04-03 15:49:31> User buton activation Original Path selection C:\01 Andres\google-python-exercises\2026 Destination Path selection C:\01 Andres\google-python-exercises\2026
+2026-04-03 15:49:31> Files found on original directory: andres_Arroyo_profile.png imagen1.txt imagen2.txt imagen3.txt imagen4.txt imagen5.txt 
+2026-04-03 15:49:31> Folder createdC:\01 Andres\google-python-exercises\2026\2025\11
+2026-04-03 15:49:31> File copied C:\01 Andres\google-python-exercises\2026\2025\11\andres_Arroyo_profile.png
+2026-04-03 15:49:31> Folder createdC:\01 Andres\google-python-exercises\2026\2026\03
+2026-04-03 15:49:31> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen1.txt
+2026-04-03 15:49:31> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen2.txt
+2026-04-03 15:49:31> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen3.txt
+2026-04-03 15:49:31> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen4.txt
+2026-04-03 15:49:31> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen5.txt
+2026-04-03 15:50:18> User buton activation Original Path selection C:\01 Andres\google-python-exercises\2026 Destination Path selection C:\01 Andres\google-python-exercises\2026
+2026-04-03 15:50:18> Files found on original directory: andres_Arroyo_profile.png imagen1.txt imagen2.txt imagen3.txt imagen4.txt imagen5.txt 
+2026-04-03 15:50:18> Folder createdC:\01 Andres\google-python-exercises\2026\2025\11
+2026-04-03 15:50:18> File copied C:\01 Andres\google-python-exercises\2026\2025\11\andres_Arroyo_profile.png
+2026-04-03 15:50:18> File erased C:\01 Andres\google-python-exercises\2026\andres_Arroyo_profile.png
+2026-04-03 15:50:18> Folder createdC:\01 Andres\google-python-exercises\2026\2026\03
+2026-04-03 15:50:18> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen1.txt
+2026-04-03 15:50:18> File erased C:\01 Andres\google-python-exercises\2026\imagen1.txt
+2026-04-03 15:50:18> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen2.txt
+2026-04-03 15:50:18> File erased C:\01 Andres\google-python-exercises\2026\imagen2.txt
+2026-04-03 15:50:18> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen3.txt
+2026-04-03 15:50:18> File erased C:\01 Andres\google-python-exercises\2026\imagen3.txt
+2026-04-03 15:50:18> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen4.txt
+2026-04-03 15:50:18> File erased C:\01 Andres\google-python-exercises\2026\imagen4.txt
+2026-04-03 15:50:18> File copied C:\01 Andres\google-python-exercises\2026\2026\03\imagen5.txt
+2026-04-03 15:50:18> File erased C:\01 Andres\google-python-exercises\2026\imagen5.txt
