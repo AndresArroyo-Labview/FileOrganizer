@@ -56,6 +56,7 @@ The core logic iterates through a source directory, parses the "Date Created" me
 		<Item Name="date_to_log_record_file_name.vi" Type="VI" URL="../subVI/date_to_log_record_file_name.vi"/>
 		<Item Name="str_initial_action_for_log_record.vi" Type="VI" URL="../subVI/str_initial_action_for_log_record.vi"/>
 		<Item Name="file_list_to_log_record.vi" Type="VI" URL="../subVI/file_list_to_log_record.vi"/>
+		<Item Name="folder_to_string_log_record.vi" Type="VI" URL="../subVI/folder_to_string_log_record.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
