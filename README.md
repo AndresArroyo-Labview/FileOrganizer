@@ -23,9 +23,11 @@ The program checks for the existence of the target path.
 The file is moved/copied to its new chronological home.
 
 ## Preview
-| Before (Messy) | After (Organized) |
-| :--- | :--- |
+
+| **Before (Unorganized)** | **After (Sorted by Date)** |
+| :---: | :---: |
 | ![Before](images/FileOrganizer_Labview_before_operation.png) | ![After](images/FileOrganizer_Labview_after_operation.png) |
+| *Cluttered source folder* | *Structured output (Year/Month)* |
 
 ## Requirements
 Software: LabVIEW 20xx (or later).
