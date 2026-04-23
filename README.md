@@ -22,6 +22,10 @@ The timestamp is parsed into Year and Month strings.
 The program checks for the existence of the target path.
 The file is moved/copied to its new chronological home.
 
+## User Interface
+![Front Panel](images/FileOrganizer_Labview_main_panel.png)
+*Simple and intuitive interface for folder selection and process monitoring.*
+
 ## Preview
 
 | **Before (Unorganized)** | **After (Sorted by Date)** |
