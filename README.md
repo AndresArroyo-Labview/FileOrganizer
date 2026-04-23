@@ -22,6 +22,11 @@ The timestamp is parsed into Year and Month strings.
 The program checks for the existence of the target path.
 The file is moved/copied to its new chronological home.
 
+## Preview
+| Before (Messy) | After (Organized) |
+| :--- | :--- |
+| ![Before](images/FileOrganizer_Labview_before_operation.png) | ![After](images/FileOrganizer_Labview_after_operation.png) |
+
 ## Requirements
 Software: LabVIEW 20xx (or later).
 OS: Windows/Linux/macOS (Compatible with standard file systems).
