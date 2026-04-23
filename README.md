@@ -1,4 +1,7 @@
 # FileOrganizer
+![LabVIEW Version](https://img.shields.io/badge/LabVIEW-2020%2B-orange)
+![License](https://img.shields.io/github/license/AndresArroyo-Labview/FileOrganizer)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 
 File Organizer (Image Sorter) - LabVIEW
 A robust LabVIEW application designed to automate the organization of cluttered file directories, specifically optimized for image libraries. The tool extracts creation metadata and sorts files into a clean, hierarchical folder structure.
