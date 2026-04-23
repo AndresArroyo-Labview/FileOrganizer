@@ -35,6 +35,14 @@ The file is moved/copied to its new chronological home.
 | ![Before](images/FileOrganizer_Labview_before_operation.png) | ![After](images/FileOrganizer_Labview_after_operation.png) |
 | *Cluttered source folder* | *Structured output (Year/Month)* |
 
+## How to Use
+1. **Select Origin:** Choose the folder containing your unorganized images.
+   ![Origin](images/FileOrganizer%20Labview%20origin%20folder%20selection.png)
+2. **Select Destination:** Choose where you want the new folder tree to be created.
+   ![Destination](images/FileOrganizer%20Labview%20destination%20folder%20selection.png)
+3. **Run:** Click "Organize Files" and wait for the completion message.
+   ![Completed](images/FileOrganizer%20Labview%20main%20panel%20operation%20completed.png)
+
 ## Requirements
 Software: LabVIEW 20xx (or later).
 OS: Windows/Linux/macOS (Compatible with standard file systems).
