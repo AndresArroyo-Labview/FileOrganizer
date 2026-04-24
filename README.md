@@ -44,6 +44,6 @@ The file is moved/copied to its new chronological home.
    ![Completed](images/FileOrganizer%20Labview%20main%20panel%20operation%20completed.png)
 
 ## Requirements
-Software: LabVIEW 20xx (or later).
+Software: LabVIEW 2026 Q1 (or later).
 OS: Windows/Linux/macOS (Compatible with standard file systems).
 
